@@ -34,4 +34,5 @@ This research utilizes public data and models developed by our team.
 2. Install required Python libraries from `requirements.txt`.
 3. Explore the datasets from https://github.com/nytimes/covid-19-data
 4. Run the respective code
+5. The powerpoint presentaion is also provided for better undeerstanding of our work
 
